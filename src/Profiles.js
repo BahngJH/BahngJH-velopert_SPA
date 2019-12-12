@@ -8,10 +8,10 @@ const Profiles = () => {
       <h3>사용자 목록:</h3>
       <ul>
         <li>
-          <Link path="/profiles/PSY">PSY</Link>
+          <Link to="/profiles/PSY">PSY</Link>
         </li>
         <li>
-          <Link path="/profiles/gildong">gildong</Link>
+          <Link to="/profiles/gildong">gildong</Link>
         </li>
       </ul>
 
